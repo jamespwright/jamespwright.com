@@ -1,0 +1,2 @@
+# jamespwright.com
+Personal website
