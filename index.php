@@ -27,7 +27,7 @@
     });
   </script>
 </head>
-<body role='flatdoc' class='no-literate large-brief'>
+<body role='flatdoc' class='no-literate'>
 
   <div class='header'>
     <div class='left'>
