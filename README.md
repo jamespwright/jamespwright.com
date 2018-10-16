@@ -1,4 +1,5 @@
-# jamespwright.com
+James Wright
+============
 Personal website
 *Initial Test*
 _Test another item_
