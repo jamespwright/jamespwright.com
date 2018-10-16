@@ -5,7 +5,7 @@ I am a full-stack software developer with nearly 20 years of experience creating
 
 ## Projects
 * This website - [View it on GitHub](https://github.com/jamespwright/jamespwright.com)
-* "Wizard Battle Arena" - a Unity game I'm designing as a way to expand outside of "business" development
+* "Wizard Battle Arena" (_private repository_) - a Unity game I'm designing as a way to expand outside of "business" development
 
 ## Hobbies
 * Software Developer
