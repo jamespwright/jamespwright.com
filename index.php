@@ -31,7 +31,7 @@
 
   <div class='header'>
     <div class='left'>
-      <h1>jamespwright</h1>
+      <h1>James P. Wright</h1>
       <ul>
         <li><a href='https://github.com/jamespwright/jamespwright.com'>View on GitHub</a></li>
       </ul>
