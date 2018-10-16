@@ -1,17 +1,4 @@
 <!doctype html>
-<!--
-
-  Instructions:
-
-  - Save this file.
-  - Replace "USER" with your GitHub username.
-  - Replace "REPO" with your GitHub repo name.
-  - Replace "Your Project" with your project name.
-  - Upload this file (or commit to GitHub Pages).
-
-  Customize as you see fit!
-
--->
 <html>
 <head>
   <meta charset='utf-8'>
@@ -30,8 +17,8 @@
   <script src='https://cdn.rawgit.com/rstacruz/flatdoc/v0.9.0/theme-white/script.js'></script>
 
   <!-- Meta -->
-  <meta content="Your Project" property="og:title">
-  <meta content="Your Project description goes here." name="description">
+  <meta content="jamespwright" property="og:title">
+  <meta content="Personal website of jamespwright." name="description">
 
   <!-- Initializer -->
   <script>
@@ -40,18 +27,18 @@
     });
   </script>
 </head>
-<body role='flatdoc'>
+<body role='flatdoc' class='no-literate large-brief'>
 
   <div class='header'>
     <div class='left'>
-      <h1>Your Project</h1>
+      <h1>jamespwright</h1>
       <ul>
         <li><a href='https://github.com/jamespwright/jamespwright.com'>View on GitHub</a></li>
       </ul>
     </div>
     <div class='right'>
       <!-- GitHub buttons: see http://ghbtns.com -->
-      <iframe src="http://ghbtns.com/github-btn.html?user=USER&amp;repo=REPO&amp;type=watch&amp;count=true" allowtransparency="true" frameborder="0" scrolling="0" width="110" height="20"></iframe>
+      <iframe src="http://ghbtns.com/github-btn.html?user=jamespwright&amp;repo=jamespwright.com&amp;type=watch&amp;count=true" allowtransparency="true" frameborder="0" scrolling="0" width="110" height="20"></iframe>
     </div>
   </div>
 
