@@ -9,6 +9,10 @@ I'm looking forward to the next chapter in my career.
 * This website - [View it on GitHub](https://github.com/jamespwright/jamespwright.com)
 * "Wizard Battle Arena" (_private repository_) - a Unity game I'm designing as a way to expand outside of "business" development
 
+## To Learn
+* [LaTeX](https://en.wikipedia.org/wiki/LaTeX) - a "document preparation system" for creating documents using markup instead of a WYSIWYG application  
+* [Blazor](https://blazor.net/) - Blazor uses C# and WebAssembly to allow for the creation of websites written entirely in C# and HTML
+
 ## Hobbies
 * Software Developer
 * Soccer enthusiast  
