@@ -11,7 +11,8 @@ I'm looking forward to the next chapter in my career.
 
 ## To Learn
 * [LaTeX](https://en.wikipedia.org/wiki/LaTeX) - a "document preparation system" for creating documents using markup instead of a WYSIWYG application  
-* [Blazor](https://blazor.net/) - Blazor uses C# and WebAssembly to allow for the creation of websites written entirely in C# and HTML
+* [Blazor](https://blazor.net/) - Blazor uses C# and WebAssembly to allow for the creation of websites written entirely in C# and HTML  
+* [Haskell](https://www.haskell.org/) - A functional language that is vastly different from everything I know.  
 
 ## Hobbies
 * Software Developer
