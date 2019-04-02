@@ -10,9 +10,9 @@ I'm looking forward to the next chapter in my career.
 * "Wizard Battle Arena" (_private repository_) - a Unity game I'm designing as a way to expand outside of "business" development
 
 ## To Learn
-* [LaTeX](https://en.wikipedia.org/wiki/LaTeX) - a "document preparation system" for creating documents using markup instead of a WYSIWYG application  
-* [Blazor](https://blazor.net/) - Blazor uses C# and WebAssembly to allow for the creation of websites written entirely in C# and HTML  
-* [Haskell](https://www.haskell.org/) - A functional language that is vastly different from everything I know.  
+* [Elixir](https://elixir-lang.org/) - I have been wanting to add a functional language to my toolset for a while.  I previously had done a little playing around with [Haskell](https://www.haskell.org/) but Elixir has a robust web framework in [Phoenix](https://phoenixframework.org/) as well as a larger local community.  
+* [GraphQL](https://graphql.org/) - Growing in popularity for use as an API layer that does a good job of stitching together data from micro-services.
+* [Blazor](https://blazor.net/) - Blazor uses C# and WebAssembly to allow for the creation of websites written entirely in C# and HTML.  I have done the basic "To Do" app in Blazor and look forward to it growing further to become more production-ready.
 
 ## Hobbies
 * Software Developer
